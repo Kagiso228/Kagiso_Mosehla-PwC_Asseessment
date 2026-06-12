@@ -81,13 +81,9 @@ Some of the most important findings from the analysis include:
 ## Repository Structure
 
 ```text
-├── data/
-├── notebooks/
-├── src/
-├── dashboard/
-├── visuals/
-├── README.md
-└── requirements.txt
+├── Kagiso_Mosehla-PwC_Asseessment/
+├── PwC_Asseessment//
+
 ```
 
 ---
