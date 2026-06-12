@@ -81,7 +81,7 @@ Some of the most important findings from the analysis include:
 ## Repository Structure
 
 ```text
-├── Kagiso_Mosehla-PwC_Asseessment/
+├── Kagiso_Mosehla/
 ├── PwC_Asseessment//
 
 ```
