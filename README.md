@@ -95,7 +95,7 @@ Some of the most important findings from the analysis include:
 * NumPy
 * Scikit-Learn
 * Matplotlib / Seaborn
-* Streamlit (if applicable)
+* Power BI
 
 ---
 
